@@ -61,6 +61,5 @@ Example using Remix:
 3.Enter the address from which to burn tokens and the amount to burn.
 4.Click "Transact" to execute the transaction.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
