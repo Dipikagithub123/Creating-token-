@@ -15,6 +15,7 @@ Functions
 
 Minting Tokens
 The `mint` function allows the creation of new tokens and assigns them to a specified address.
+
 function mint(address _to, uint256 _value) public;
 
 Parameters:
@@ -23,7 +24,8 @@ Parameters:
 `_value`: The number of tokens to mint.
 
 Burning Tokens
-The burn function allows the destruction of tokens from a specified address, reducing the total supply.
+The `burn` function allows the destruction of tokens from a specified address, reducing the total supply.
+
 function burn(address _to, uint256 _value) public;
 
 Parameters:
