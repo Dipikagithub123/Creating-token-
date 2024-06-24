@@ -39,7 +39,9 @@ To deploy the DipikaToken contract, you will need an Ethereum development enviro
 
 Open Remix.
 1.Create a new file and paste the DipikaToken contract code.
+
 2.Compile the contract.
+
 3.Deploy the contract using the "Deploy" button in Remix.
 
 Interacting with the Contract
@@ -51,8 +53,11 @@ To mint tokens, call the mint function with the recipient's address and the amou
 Example using Remix:
 
 1.Select the deployed DipikaToken contract.
+
 2.Select the mint function.
+
 3.Enter the recipient's address and the amount of tokens to mint.
+
 4.Click "Transact" to execute the transaction.
 
 Burn Tokens
@@ -61,6 +66,9 @@ To burn tokens, call the `burn` function with the address from which to burn tok
 Example using Remix:
 
 1.Select the deployed DipikaToken contract.
+
 2.Select the burn function.
+
 3.Enter the address from which to burn tokens and the amount to burn.
+
 4.Click "Transact" to execute the transaction.
